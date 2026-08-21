@@ -288,7 +288,7 @@ a:hover { opacity: 0.6; }
 
 
 
-/* 피지컬 모델링 섹션 */
+/* 피지컬 모델링 섹션 */
 .project-item {
   display: flex;
   gap: 2.5rem;
